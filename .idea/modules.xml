@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Cucumber-Appium-Flicker-main/Java-Cucumber-Appium-Flicker-main/Appium-Cucumber.iml" filepath="$PROJECT_DIR$/Java-Cucumber-Appium-Flicker-main/Java-Cucumber-Appium-Flicker-main/Appium-Cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Flikar-Appium.iml" filepath="$PROJECT_DIR$/.idea/Flikar-Appium.iml" />
+    </modules>
+  </component>
+</project>
